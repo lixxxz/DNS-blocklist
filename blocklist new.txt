@@ -1,0 +1,22 @@
+! Title: Indonesian Gambling Blocklist
+! Description: DNS filter to block known Indonesian-targeted gambling domains
+! Version: 2025.06.12.1
+! Homepage: (you can put your repo URL here)
+! Last modified: 2025-06-12T20:30:00.000Z
+!
+||bolavita.com^
+||indoslot88.com^
+||ioncasino88.net^
+||sbobet.com^
+||maxbet.com^
+||88asia.com^
+||klikbca88.com^
+||idnpoker.com^
+||nagapoker.net^
+||dewapoker.com^
+||jayatogel88.net^
+||totobet.net^
+||togelhkg.org^
+||togelup.com^
+||kudatogel.com^
+||facebook.com^

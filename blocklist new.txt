@@ -1,8 +1,7 @@
 ! Title: Indonesian Gambling Blocklist
 ! Description: DNS filter to block known Indonesian-targeted gambling domains
-! Version: 2025.06.12.1
-! Homepage: (you can put your repo URL here)
-! Last modified: 2025-06-12T20:30:00.000Z
+! Version: 2025.06.13.1
+! Last modified: 2025-06-13T01:10:43.000Z
 !
 ||bolavita.com^
 ||indoslot88.com^
@@ -20,3 +19,31 @@
 ||togelup.com^
 ||kudatogel.com^
 ||bola88.com^
+||M88.com^
+||W88.com^
+||188Bet.com^
+||Dafabet.com^
+||Fun88.com^
+||BK8.com^
+||Joker123.net^
+||Pragmaticplay.net^
+||PGsoft.com^
+||Habanerosystems.com^
+||CQ9.com^
+||Spadegaming.com^
+||Microgaming.com^
+||Playtech.com^
+||TopTrendGaming.com^
+||Betsoft.com^
+||CMD368.com^
+||IBCbet.com^
+||VivoGaming.com^
+||SexyBaccarat.com^
+||EvolutionGaming.com^
+||SAgaming.com^
+||SBOBET88.com^
+||ligaciputra.com^
+||rajacuan.com^
+||slotgacor.com^
+||winsortoto.com^
+||istanaslot.com^

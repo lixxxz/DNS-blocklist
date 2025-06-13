@@ -1,4 +1,4 @@
-! Title: Indonesian Gambling Blocklist
+! Title: Indonesian Gambling Blocklist and Potential Malicious Sites
 ! Description: DNS filter to block known Indonesian-targeted gambling domains
 ! Version: 2025.06.13.1
 ! Last modified: 2025-06-13T01:10:43.000Z
@@ -47,3 +47,4 @@
 ||slotgacor.com^
 ||winsortoto.com^
 ||istanaslot.com^
+||aaa.xxxip.cc^
